@@ -14,7 +14,7 @@ Windows 바탕화면에 항상 떠 있는 투명 D-day 카운트다운 위젯입
 - 새 버전이 나오면 자동으로 감지해서 다운로드 및 설치까지 진행 (관리자 권한 불필요)
 
 ## 설치
-[Releases](https://github.com/12Cchris/D-day-widget/releases) 페이지에서 최신 `D-day_Setup.exe`를 다운로드해서 실행하세요. 관리자 권한 없이 설치되며, 이후 새 버전이 나오면 위젯이 알아서 업데이트를 안내합니다.
+[Releases]([https://github.com/12Cchris/D-day-widget/releases](https://github.com/12Cchris/D-day-widget-releases/releases)) 페이지에서 최신 `D-day_Setup.exe`를 다운로드해서 실행하세요. 관리자 권한 없이 설치되며, 이후 새 버전이 나오면 위젯이 알아서 업데이트를 안내합니다.
 
 ## 사용법
 - **좌클릭 드래그**: 위젯 위치 이동
